@@ -1,2 +1,2 @@
 # scPDAC
-R code used to analyze single cell PDAC data
+R code for figures in the PDAC single cell paper
